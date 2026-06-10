@@ -1,0 +1,108 @@
+PROMPT 1
+---------
+User:
+Write a 2D graphics editor using * and _.
+
+Requirements:
+1. Write functions to draw a circle, rectangle, line, and triangle.
+2. Add, delete, and modify objects.
+3. Use a 2D array of characters to store the picture.
+4. Write a function to display the picture.
+
+Response:
+Provided project design using a 2D character array and functions:
+- drawRectangle()
+- drawLine()
+- drawTriangle()
+- drawCircle()
+- deleteArea()
+- displayCanvas()
+
+------------------------------------------------------------
+
+PROMPT 2
+---------
+User:
+Give a code by splitting the full code so that I can push the remaining part tomorrow.
+
+Response:
+Provided project development plan split into multiple days:
+Day 1: Canvas and display
+Day 2: Rectangle and line
+Day 3: Triangle
+Day 4: Circle
+Day 5: Delete and modify
+Day 6: Menu-driven version
+
+------------------------------------------------------------
+
+PROMPT 3
+---------
+User:
+Give me a complete code and don't give a split code.
+
+Response:
+Generated complete menu-driven C program implementing:
+- Rectangle
+- Line
+- Triangle
+- Circle
+- Delete
+- Modify
+- Display
+- Clear Canvas
+
+------------------------------------------------------------
+
+PROMPT 4
+---------
+User:
+Create a README.md file and mention the steps to run the program and commands.
+
+Response:
+Generated README.md containing:
+- Project description
+- Features
+- Compilation instructions
+- Execution instructions
+- Git commands
+- Learning outcomes
+
+------------------------------------------------------------
+
+PROMPT 5
+---------
+User:
+How to run?
+
+Response:
+Compilation:
+gcc graphics_editor.c -o graphics_editor -lm
+
+Execution:
+.\graphics_editor.exe
+
+Display option:
+7. Display Picture
+
+------------------------------------------------------------
+
+PROMPT 6
+---------
+User:
+Permission denied while compiling graphics_editor.exe
+
+Response:
+Suggested:
+- Close running executable
+- Use taskkill
+- Delete old executable
+- Compile with different executable name
+
+------------------------------------------------------------
+
+Project Generated Using:
+ChatGPT
+
+Date:
+June 2026
